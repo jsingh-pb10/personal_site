@@ -5,7 +5,7 @@ parent: Projects
 nav_order: 2
 ---
 
-<p align="justify ">
+
 
 Hexeract is a fully systematic cloud based trading application. It encompass:
 
@@ -16,7 +16,7 @@ Hexeract is a fully systematic cloud based trading application. It encompass:
     5  Portfolio optimizer
     6) Risk management
 
- </p>
+ 
 
 <p align="justify ">
  Code samples from the private repo are available (here). The sampled code  makes use of a model from dynamical system theory which annualy gives approx 1.125 times the Nifty 50 return which is a benchmark Indian stock market index that represents the weighted average of 50 of the largest Indian companies listed on the National Stock Exchange.
