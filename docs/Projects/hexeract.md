@@ -7,13 +7,13 @@ nav_order: 2
 
 
 
-Hexeract is a fully systematic cloud based trading application. It encompass:
+Hexeract is a fully systematic cloud based trading application. It encompasses:
 
     1) Data pipelines and websockets for high-frequency data
     2) Efficent data storage
     3) Extract - transform - load of data into signal generator 
     4) A buy/sell signal generator
-    5  Portfolio optimizer
+    5)  Portfolio optimizer
     6) Risk management
 
  

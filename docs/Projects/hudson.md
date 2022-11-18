@@ -8,14 +8,13 @@ nav_order: 1
 # Hudson
 
 <p align="justify ">
-Over the past 6 months I worked as a visiting researcher at the New York Genome Center where I have co-developed Hudson, a computational pipeline from tissue structure analysis from images. It can be scaled from a personal computer to research computing clusters for heavy workloads. I really recommend having a quick look at the poster I made of Hudson for a National Institute of Health member meeting at Duke University School of Medicine.
+Over the past 6 months I worked as a visiting researcher at <a href="https://www.nygenome.org"> New York Genome Center</a> where I have co-developed Hudson, a computational pipeline from tissue structure analysis from images. It can be scaled from a personal computer to research computing clusters for heavy workloads. I was a part technology innovation lab, a dedicated incubator for testing breakthrough genomic tools and ideas. I really recommend having a quick look at the poster I made of Hudson for a National Institute of Health member meeting at Duke University School of Medicine.
 </p>
 
 ![Link](https://user-images.githubusercontent.com/42875353/201494678-fa69b6e2-fd48-4fbc-bdf9-66be7fbef3d2.png)
 
 
-The repository and installation instructions can be found  <a href="https://github.com/nygctech/hudson">here</a>.  The pipeline documentation which is in progress can be found  <a href="https://nygctech.github.io/hudson/">here</a>.
-
+The repository and installation instructions can be found  <a href="https://github.com/nygctech/hudson">here</a>.  The pipeline documentation is currenlty in progress. 
 
 
 From the poster presentation session at Duke University School of Medicine:
