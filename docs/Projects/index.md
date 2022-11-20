@@ -5,6 +5,6 @@ nav_order: 3
 has_children: true
 ---
 
-# Projects
+## Projects
 
-This section dives into a detailed view of the pipeline and its individual components
+This section covers my projects and research interestes. Hudson is the more recent project.

@@ -5,7 +5,7 @@ parent: Projects
 nav_order: 2
 ---
 
-
+## Hexeract 
 
 Hexeract is a fully systematic cloud based trading application. It encompasses:
 
@@ -13,16 +13,15 @@ Hexeract is a fully systematic cloud based trading application. It encompasses:
     2) Efficent data storage
     3) Extract - transform - load of data into signal generator 
     4) A buy/sell signal generator
-    5)  Portfolio optimizer
+    5) Portfolio manager/optimizer
     6) Risk management
 
  
 
 <p align="justify ">
- Code samples from the private repo are available (here). The sampled code  makes use of a model from dynamical system theory which annualy gives approx 1.125 times the Nifty 50 return which is a benchmark Indian stock market index that represents the weighted average of 50 of the largest Indian companies listed on the National Stock Exchange.
+ Code samples from the private repo are available <a href="https://github.com/jsingh-pb10/hexeract"> here </a> . The sampled code from the signal generator makes use of a <a href="https://en.wikipedia.org/wiki/Dynamic_mode_decomposition"> Dynamic Mode Decomposition </a>, and the sample code from the portfolio optimizer makes use of heirarchal <a href="https://en.wikipedia.org/wiki/Risk_parity"> risk parity </a>. This combination annually gives approx 1.125 times the Nifty 50 return which is a benchmark Indian stock market index that represents the weighted average of 50 of the largest Indian companies listed on the National Stock Exchange.
  </p>
 
 <p align="justify ">
- P.S. : Hexeract was on the core reasons why I was able to finish Hudson at very fast speed. For Hexeract I worked with a lot of satellite derived spatial data, as it is  useful for commodites trading especially for agriculture and energy related derivates. This I had good knowledge of how to effeciently work with spatial data which is the core component of Hudson.  
-
+ _Post Script: Hexeract was the core reasons why I was able to finish Hudson at very fast speed. For Hexeract I worked with a lot of satellite derived geospatial data, as it is  useful for trading commidity derivaties especially for agriculture and energy related ones. Thus I had good knowledge of how to effeciently work with a huge amounts of spatial data which is the foundation of Hudson._
 </p>
