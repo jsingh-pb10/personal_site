@@ -23,5 +23,5 @@ Hexeract is a fully systematic cloud based trading application. It encompasses:
  </p>
 
 <p align="justify ">
- ***Post Script: Hexeract was the core reason why I was able to finish Hudson at a very fast speed. For Hexeract I worked with a lot of satellite derived geospatial data as it is useful for trading commodity derivatives, especially agriculture and energy related ones. Thus I had good knowledge of how to efficiently work with huge amounts of spatial data which is the foundation of Hudson.***
+ Postscript: Hexeract was the core reason why I was able to finish Hudson at a very fast speed. For Hexeract I worked with a lot of satellite derived geospatial data as it is useful for trading commodity derivatives, especially agriculture and energy related ones. Thus I had good knowledge of how to efficiently work with huge amounts of spatial data which is the foundation of Hudson.
 </p>
