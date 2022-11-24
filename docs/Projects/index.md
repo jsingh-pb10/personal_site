@@ -7,4 +7,4 @@ has_children: true
 
 ## Projects
 
-This section covers my projects and research interestes. Hudson is the more recent project.
+This section covers my projects and research interests. Hudson is the more recent project.
