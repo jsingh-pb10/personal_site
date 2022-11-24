@@ -14,12 +14,12 @@ Hexeract is a fully systematic cloud based trading application. It encompasses:
     3) Extract - transform - load of data into signal generator 
     4) A buy/sell signal generator
     5) Portfolio manager/optimizer
-    6) Risk management
+    6) Risk manager
 
  
 
 <p align="justify ">
- Code samples from the private repo are available <a href="https://github.com/jsingh-pb10/hexeract"> here </a> . The sampled code from the signal generator makes use of a <a href="https://en.wikipedia.org/wiki/Dynamic_mode_decomposition"> Dynamic Mode Decomposition </a>, and the sample code from the portfolio optimizer makes use of heirarchal <a href="https://en.wikipedia.org/wiki/Risk_parity"> risk parity </a>. This combination annually gives approx 1.125 times the Nifty 50 return which is a benchmark Indian stock market index that represents the weighted average of 50 of the largest Indian companies listed on the National Stock Exchange.
+ Code samples from the private repository are available <a href="https://github.com/jsingh-pb10/hexeract"> here </a> . The sampled code from the signal generator makes use of <a href="https://en.wikipedia.org/wiki/Dynamic_mode_decomposition"> Dynamic Mode Decomposition </a>. The sampled code from the portfolio optimizer makes use of heirarchal <a href="https://en.wikipedia.org/wiki/Risk_parity"> risk parity </a>. This combination annually gives approx 1.125 times the Nifty 50 return which is a benchmark Indian stock market index that represents the weighted average of 50 of the largest Indian companies listed on the National Stock Exchange.
  </p>
 
 <p align="justify ">

@@ -8,7 +8,7 @@ nav_order: 1
 ## Hudson
 
 <p align="justify ">
-Over the past 6 months I have worked as a visiting researcher at the <a href="https://www.nygenome.org"> New York Genome Center</a> where I have co-developed Hudson, a computational pipeline from tissue structure analysis from images. It is can easily by scaled from a personal computer to research compute clusters for heavy workloads which is generally the use case. I was a part technology innovation lab, a dedicated incubator for testing breakthrough genomic tools and ideas. I really recommend having a quick look at the poster I made of Hudson for a National Institute of Health member meeting at Duke University School of Medicine.
+Over the past 6 months I have worked as a visiting researcher at the <a href="https://www.nygenome.org"> New York Genome Center</a> where I have co-developed Hudson, a computational pipeline the computes how cells are spatially distributed over the tissue in a micropscopy image. It can easily by scaled from a personal computer to research computing clusters for heavy workloads which is generally the use case. I was a part of the technology innovation lab, a dedicated incubator for testing breakthrough genomic tools and ideas. I really recommend having a quick look at the poster I made of Hudson for the <a href="https://www.genome.gov/Funded-Programs-Projects/Centers-of-Excellence-in-Genomic-Science"> NIH CEGS</a> annual meeting at the Duke University School of Medicine.  
 </p>
 
 ![Link](https://user-images.githubusercontent.com/42875353/201494678-fa69b6e2-fd48-4fbc-bdf9-66be7fbef3d2.png)
