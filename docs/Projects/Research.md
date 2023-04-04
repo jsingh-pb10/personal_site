@@ -7,7 +7,7 @@ nav_order: 3
 
 ## Research
 
-I have an interest in  <a href="https://math.ucr.edu/home/baez/information/">information geometry</a>, and working with spatial data both of which really helped me build Hudson and portfolio management tools for Hexeract. I also like to explore non-parametric models, high-dimensional statistics, chaos theory, graphical models. Below are a few research papers I have written. This first one is for an advanved course on Graphical Models at Columbia Univesrity and the other two are published papers that I worked on during my time at McGill University:
+I am interested in information geometry and working with spatial data, which helped me build Hudson and portfolio management tools for Hexeract. I also like to explore non-parametric models, high-dimensional statistics, chaos theory, and graphical models. Below are a few research papers I have written. This first one is for an advanced course on Graphical Models at Columbia University, and the other two are published papers that I worked on during my time at McGill University:
 
 1) <a href="https://github.com/jsingh-pb10/personal_site/blob/main/docs/Projects/graph_med.pdf">Improving X-Ray Disease Classification by combining Probabilistic Graphical Models and Variational Inference with Deep Neural Networks.</a>
 
