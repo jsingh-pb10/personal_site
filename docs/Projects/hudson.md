@@ -16,10 +16,7 @@ I have worked as a visiting researcher at the <a href="https://www.nygenome.org"
 ![Link](https://user-images.githubusercontent.com/42875353/201494678-fa69b6e2-fd48-4fbc-bdf9-66be7fbef3d2.png)
 
 <p align="justify ">
-The repository and installation instructions can be found  <a href="https://github.com/nygctech/hudson">here</a>. The pipeline documentation is currently in progress. Incase the repository link does not work, a backup copy can be viewed <a href="https://github.com/jsingh-pb10/hudson_backup">here</a>.
-</p>
-
-A photo from a poster presentation session at the Duke University School of Medicine:
+The repository and installation instructions can be found  <a href="https://github.com/nygctech/hudson">here</a>. The pipeline documentation is currently in progress. Incase the repository link does not work, a backup copy can be viewed <a href="https://github.com/jsingh-pb10/hudson_backup">here</a>. I have also made a detailed report of it, which can be found <embed src="https://jsingh-pb10.github.io/personal_site/docs/Projects/Hudson%20Reportf" type="application/pdf" />here</a> A photo from a poster presentation session at the Duke University School of Medicine:
 
 ![Photo](https://user-images.githubusercontent.com/42875353/201494797-464c843b-7ea1-4df1-93b4-67a1cc91371c.jpg){:height="50%" width="50%"}
 
