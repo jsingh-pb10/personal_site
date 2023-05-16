@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hudson
-parent: Projects
+parent: projects
 nav_order: 1
 ---
 

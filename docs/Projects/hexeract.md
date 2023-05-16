@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hexeract
-parent: Projects
+parent: projects
 nav_order: 2
 ---
 
