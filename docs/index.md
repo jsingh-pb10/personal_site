@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Myself
+title: myself
 nav_order: 1
 ---
 
